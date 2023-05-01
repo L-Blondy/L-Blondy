@@ -19,13 +19,22 @@
 
 ## Pinned Repos
 
-<a href="https://github.com/L-Blondy/tw-colors" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=87ceeb40&bg_color=161b24&title_color=f5f5f5&icon_color=87ceeb&text_color=cccccc'>
-    <source media="(prefers-color-scheme: light)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
-    <img src='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
-  </picture>
-</a>
+<div style='display:flex;gap:0 10px;flex-wrap: wrap;'>
+  <a href="https://github.com/L-Blondy/tw-colors" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=87ceeb40&bg_color=161b24&title_color=f5f5f5&icon_color=87ceeb&text_color=cccccc'>
+      <source media="(prefers-color-scheme: light)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
+      <img src='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
+    </picture>
+  </a>
+
+<a><img height="120px" width="120px" style="border-radius:4px" src="https://api.star-history.com/svg?repos=L-Blondy/tw-colors&type=Date" /></a>
+
+<!--
+[![Star History Chart](https://api.star-history.com/svg?repos=L-Blondy/tw-colors&type=Date)](https://star-history.com/#L-Blondy/tw-colors&Date) -->
+
+</div>
+
 <a href="https://github.com/L-Blondy/up-fetch" target="_blank" rel="noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=up-fetch&border_color=87ceeb40&bg_color=161b24&title_color=f5f5f5&icon_color=87ceeb&text_color=cccccc'>
