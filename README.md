@@ -1,11 +1,16 @@
 # Hi I'm Laurent 👋
 
+<!-- MY REPOS -->
+
 ## Top Open Source -
 
 [![tw-colors](https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=333333&text_color=8B949E&icon_color=2986cc)](https://github.com/L-Blondy/tw-colors)
 [![up-fetch](https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=up-fetch&border_color=2986cc60&bg_color=ffffff&title_color=333333&text_color=8B949E&icon_color=2986cc)](https://github.com/L-Blondy/up-fetch)
 
-<h3 align="left">Top technologies:</h3>
+<!-- TECHNOLOGIES -->
+
+## Top technologies
+
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
@@ -52,14 +57,21 @@
     />
   </a>
   <a href="https://astro.build/" target="_blank" rel="noreferrer">
-    <img 
-      src="./astro.svg" 
+    <picture 
       alt="astro" 
       title="Astro" 
       width="32" 
-      height="32" 
-      style='margin-right:6px;'
-    />
+      height="32" >
+      <source media="(prefers-color-scheme: dark)" srcset="./astro-theme-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./astro-theme-light.svg">
+      <img 
+        alt="github contribution grid snake animation" src="./astro-theme-light.svg" 
+        alt="astro" 
+        title="Astro" 
+        width="32" 
+        height="32"
+      >
+    </picture>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
@@ -123,6 +135,7 @@
   </a>
 </p>
 
+<!-- GITHUB STATS -->
 <p>
   &nbsp;<img
     align="center"
@@ -130,15 +143,8 @@
     alt="l-blondy"
   />
 </p>
-<!-- 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=l-blondy&"
-    alt="l-blondy"
-  />
-</p> -->
 
+<!-- SNAKE -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L-Blondy/L-Blondy/snake/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/L-Blondy/L-Blondy/snake/snake.svg">
