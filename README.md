@@ -7,7 +7,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L-Blondy/L-Blondy/snake/snake-dark.svg">
-  <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/L-Blondy/L-Blondy/snake/snake.svg"> -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/L-Blondy/L-Blondy/snake/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/L-Blondy/L-Blondy/snake/snake.svg>
 </picture>
 
