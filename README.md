@@ -6,7 +6,7 @@
 [![up-fetch](https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=up-fetch&border_color=2986cc60&bg_color=ffffff&title_color=333333&text_color=8B949E&icon_color=2986cc)](https://github.com/L-Blondy/up-fetch)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./sass.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L-Blondy/L-Blondy/snake/snake-dark.svg">
   <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/L-Blondy/L-Blondy/snake/snake.svg"> -->
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/L-Blondy/L-Blondy/snake/snake.svg>
 </picture>
