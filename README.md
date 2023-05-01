@@ -8,14 +8,19 @@
 [![up-fetch](https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=up-fetch&border_color=2986cc60&bg_color=ffffff&title_color=333333&text_color=8B949E&icon_color=2986cc)](https://github.com/L-Blondy/up-fetch)
 
 <a href="https://github.com/L-Blondy/tw-colors" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=87ceeb40&bg_color=161b24&title_color=f5f5f5&icon_color=87ceeb&text_color=cccccc'>
-      <source media="(prefers-color-scheme: light)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=333333&text_color=8B949E&icon_color=2986cc'>
-      <img src='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=333333&text_color=8B949E&icon_color=2986cc'>
-    </picture>
-  </a>
-
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=87ceeb40&bg_color=161b24&title_color=f5f5f5&icon_color=87ceeb&text_color=cccccc&)](https://github.com/L-Blondy/tw-colors'>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=87ceeb40&bg_color=161b24&title_color=f5f5f5&icon_color=87ceeb&text_color=cccccc'>
+    <source media="(prefers-color-scheme: light)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=333333&text_color=8B949E&icon_color=2986cc'>
+    <img src='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=333333&text_color=8B949E&icon_color=2986cc'>
+  </picture>
+</a>
+<a href="https://github.com/L-Blondy/up-fetch" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=up-fetch&border_color=87ceeb40&bg_color=161b24&title_color=f5f5f5&icon_color=87ceeb&text_color=cccccc'>
+    <source media="(prefers-color-scheme: light)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=up-fetch&border_color=2986cc60&bg_color=ffffff&title_color=333333&text_color=8B949E&icon_color=2986cc'>
+    <img src='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=up-fetch&border_color=2986cc60&bg_color=ffffff&title_color=333333&text_color=8B949E&icon_color=2986cc'>
+  </picture>
+</a>
 
 <!-- TECHNOLOGIES -->
 
