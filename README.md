@@ -1,6 +1,8 @@
-# Hi I'm Laurent 👋
+<h1 align="center">Hi I'm Laurent 👋</h1>
 
-## A passionate Front-end developer from Italy
+<h2 align="center">A passionate Front-end developer from Italy</h2>
+
+<br>
 
 <!-- GITHUB STATS -->
 <p>
@@ -10,6 +12,8 @@
     alt="l-blondy"
   />
 </p>
+
+<br>
 
 <!-- MY REPOS -->
 
@@ -29,6 +33,8 @@
     <img src='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=up-fetch&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
   </picture>
 </a>
+
+<br>
 
 <!-- TECHNOLOGIES -->
 
