@@ -6,11 +6,20 @@
 
 <!-- GITHUB STATS -->
 <p align="center">
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=l-blondy&show_icons=true&locale=en&theme=tokyonight"
-    alt="l-blondy"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=l-blondy&show_icons=true&locale=en&theme=tokyonight&custom_title=Github+Statistics&rank_icon=github"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://github-readme-stats.vercel.app/api?username=l-blondy&show_icons=true&locale=en&custom_title=Github+Statistics&rank_icon=github"
+    />
+    <img 
+      alt="github stats"
+      src="https://github-readme-stats.vercel.app/api?username=l-blondy&show_icons=true&locale=en&theme=tokyonight&custom_title=Github+Statistics&rank_icon=github" 
+    />
+</picture>
 </p>
 
 <br>
