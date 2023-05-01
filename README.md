@@ -15,6 +15,16 @@
 
 <br>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/blondy/" target="_blank" rel="noreferrer">
+    <img 
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="linkedin" >
+  </a>
+</div>
+
+<br>
+
 <!-- MY REPOS -->
 
 ## Pinned Repos
@@ -171,5 +181,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/L-Blondy/L-Blondy/snake/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/L-Blondy/L-Blondy/snake/snake.svg">
 </picture>
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
