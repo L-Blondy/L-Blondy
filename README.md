@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Laurent 👋</h1>
 
-<h2 align="center">A passionate Front-end developer from Italy</h2>
+<h3 align="center">A passionate Front-end developer from Italy</h3>
 
 <br>
 
