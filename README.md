@@ -7,7 +7,7 @@
 [![tw-colors](https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=333333&text_color=8B949E&icon_color=2986cc)](https://github.com/L-Blondy/tw-colors)
 [![up-fetch](https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=up-fetch&border_color=2986cc60&bg_color=ffffff&title_color=333333&text_color=8B949E&icon_color=2986cc)](https://github.com/L-Blondy/up-fetch)
 
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=87ceeb80&bg_color=161b24&title_color=f5f5f5&icon_color=87ceeb&text_color=cccccc&)](https://github.com/L-Blondy/tw-colors'>
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=87ceeb40&bg_color=161b24&title_color=f5f5f5&icon_color=87ceeb&text_color=cccccc&)](https://github.com/L-Blondy/tw-colors'>
 
 <!-- TECHNOLOGIES -->
 
