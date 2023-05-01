@@ -19,7 +19,7 @@
 
 ## Pinned Repos
 
-<div style='display:flex;gap:0 10px;flex-wrap: wrap;'>
+<div style='display:flex;gap:0 10px;flex-direction:column;'>
   <a href="https://github.com/L-Blondy/tw-colors" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=87ceeb40&bg_color=161b24&title_color=f5f5f5&icon_color=87ceeb&text_color=cccccc'>
@@ -28,10 +28,9 @@
     </picture>
   </a>
 
-<a><img height="120px" width="120px" style="border-radius:4px" src="https://api.star-history.com/svg?repos=L-Blondy/tw-colors&type=Date" /></a>
+<a><img style="border-radius:4px;max-width:min(100%,400px);max-height:400px" src="https://api.star-history.com/svg?repos=L-Blondy/tw-colors&type=Date" /></a>
 
-<!--
-[![Star History Chart](https://api.star-history.com/svg?repos=L-Blondy/tw-colors&type=Date)](https://star-history.com/#L-Blondy/tw-colors&Date) -->
+<!-- [![Star History Chart](https://api.star-history.com/svg?repos=L-Blondy/tw-colors&type=Date)](https://star-history.com/#L-Blondy/tw-colors&Date) -->
 
 </div>
 
