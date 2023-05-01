@@ -29,6 +29,7 @@
 </div>
 
 <br>
+<br>
 
 <!-- MY REPOS -->
 
@@ -52,6 +53,7 @@
   </picture>
 </a>
 
+<br>
 <br>
 
 <!-- TECHNOLOGIES -->
