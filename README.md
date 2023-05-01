@@ -21,7 +21,7 @@
 
 <!-- TECHNOLOGIES -->
 
-## My Stack
+## Top Techs
 
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
