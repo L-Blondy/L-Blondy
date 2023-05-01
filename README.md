@@ -32,35 +32,35 @@
 
 <!-- MY REPOS -->
 
-<h2 align="center">Pinned Repos</h2>
+## Pinned Repos
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/L-Blondy/tw-colors" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=87ceeb40&bg_color=161b24&title_color=f5f5f5&icon_color=87ceeb&text_color=cccccc'>
-      <source media="(prefers-color-scheme: light)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
-      <img src='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
-    </picture>
-  </a>
-  
-  <a href="https://github.com/L-Blondy/up-fetch" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=up-fetch&border_color=87ceeb40&bg_color=161b24&title_color=f5f5f5&icon_color=87ceeb&text_color=cccccc'>
-      <source media="(prefers-color-scheme: light)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=up-fetch&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
-      <img src='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=up-fetch&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
-    </picture>
-  </a>
-</div>
+<a href="https://github.com/L-Blondy/tw-colors" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=87ceeb40&bg_color=161b24&title_color=f5f5f5&icon_color=87ceeb&text_color=cccccc'>
+    <source media="(prefers-color-scheme: light)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
+    <img src='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
+  </picture>
+</a>
+
+<a href="https://github.com/L-Blondy/up-fetch" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=up-fetch&border_color=87ceeb40&bg_color=161b24&title_color=f5f5f5&icon_color=87ceeb&text_color=cccccc'>
+    <source media="(prefers-color-scheme: light)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=up-fetch&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
+    <img src='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=up-fetch&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
+  </picture>
+</a>
 
 <br>
 
 <!-- TECHNOLOGIES -->
 
-<h2 align="center">Top Techs</h2>
+## Top Techs
 
-<p align="center">
+<br>
+
+<p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="./typescript.svg"
