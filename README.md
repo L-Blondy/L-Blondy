@@ -31,7 +31,6 @@
 <a style="display:block;border-radius:4px;max-width:min(100%,400px);max-height:400px">
   <img  
     width="400"
-    height="400"
     src="https://api.star-history.com/svg?repos=L-Blondy/tw-colors&type=Date" 
   >
 </a>
