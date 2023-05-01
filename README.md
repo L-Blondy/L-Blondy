@@ -186,6 +186,9 @@
 </p>
 
 <!-- SNAKE -->
+
+## Contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L-Blondy/L-Blondy/snake/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/L-Blondy/L-Blondy/snake/snake.svg">
