@@ -1,12 +1,5 @@
 # Hi I'm Laurent 👋
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=l-blondy&label=Profile%20views&color=0e75b6&style=flat"
-    alt="l-blondy"
-  />
-</p>
-
 ## Top Open Source -
 
 [![tw-colors](https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=333333&text_color=8B949E&icon_color=2986cc)](https://github.com/L-Blondy/tw-colors)
