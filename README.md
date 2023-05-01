@@ -19,25 +19,13 @@
 
 ## Pinned Repos
 
-<div style='display:flex;gap:0 10px;flex-direction:column;'>
-  <a href="https://github.com/L-Blondy/tw-colors" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=87ceeb40&bg_color=161b24&title_color=f5f5f5&icon_color=87ceeb&text_color=cccccc'>
-      <source media="(prefers-color-scheme: light)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
-      <img src='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
-    </picture>
-  </a>
-
-<a style="display:block;border-radius:4px;max-width:min(100%,400px);max-height:400px">
-  <img  
-    width="400"
-    src="https://api.star-history.com/svg?repos=L-Blondy/tw-colors&type=Date" 
-  >
+<a href="https://github.com/L-Blondy/tw-colors" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=87ceeb40&bg_color=161b24&title_color=f5f5f5&icon_color=87ceeb&text_color=cccccc'>
+    <source media="(prefers-color-scheme: light)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
+    <img src='https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
+  </picture>
 </a>
-
-<!-- [![Star History Chart](https://api.star-history.com/svg?repos=L-Blondy/tw-colors&type=Date)](https://star-history.com/#L-Blondy/tw-colors&Date) -->
-
-</div>
 
 <a href="https://github.com/L-Blondy/up-fetch" target="_blank" rel="noreferrer">
   <picture>
@@ -183,3 +171,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/L-Blondy/L-Blondy/snake/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/L-Blondy/L-Blondy/snake/snake.svg">
 </picture>
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
