@@ -28,7 +28,7 @@
     </picture>
   </a>
 
-<a style="border-radius:4px;max-width:min(100%,400px);max-height:400px"><img  src="https://api.star-history.com/svg?repos=L-Blondy/tw-colors&type=Date" /></a>
+<a style="display:block;border-radius:4px;max-width:min(100%,400px);max-height:400px"><img  src="https://api.star-history.com/svg?repos=L-Blondy/tw-colors&type=Date" /></a>
 
 <!-- [![Star History Chart](https://api.star-history.com/svg?repos=L-Blondy/tw-colors&type=Date)](https://star-history.com/#L-Blondy/tw-colors&Date) -->
 
