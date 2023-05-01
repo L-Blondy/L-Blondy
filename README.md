@@ -2,10 +2,7 @@
 
 <!-- MY REPOS -->
 
-## Top Open Source -
-
-[![tw-colors](https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=333333&text_color=8B949E&icon_color=2986cc)](https://github.com/L-Blondy/tw-colors)
-[![up-fetch](https://github-readme-stats.vercel.app/api/pin/?username=L-Blondy&repo=up-fetch&border_color=2986cc60&bg_color=ffffff&title_color=333333&text_color=8B949E&icon_color=2986cc)](https://github.com/L-Blondy/up-fetch)
+## Pinned Repos
 
 <a href="https://github.com/L-Blondy/tw-colors" target="_blank" rel="noreferrer">
   <picture>
@@ -24,7 +21,7 @@
 
 <!-- TECHNOLOGIES -->
 
-## Top technologies
+## My Stack
 
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
