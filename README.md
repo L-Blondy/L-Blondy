@@ -1,5 +1,16 @@
 # Hi I'm Laurent 👋
 
+## A passionate Front-end developer from Italy
+
+<!-- GITHUB STATS -->
+<p>
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=l-blondy&show_icons=true&locale=en"
+    alt="l-blondy"
+  />
+</p>
+
 <!-- MY REPOS -->
 
 ## Pinned Repos
@@ -145,15 +156,6 @@
       style='margin-right:6px;'
     />
   </a>
-</p>
-
-<!-- GITHUB STATS -->
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=l-blondy&show_icons=true&locale=en"
-    alt="l-blondy"
-  />
 </p>
 
 <!-- SNAKE -->
