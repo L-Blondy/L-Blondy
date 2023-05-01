@@ -30,8 +30,7 @@
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="linkedin" >
   </a>
-  <!-- <a href="https://blondy.dev/curriculum-laurent_blondy-ENG.pdf" target="_blank" rel="noreferrer"> -->
-  <a href="./resume_laurent_blondy.pdf" target="_blank" rel="noreferrer">
+  <a href="https://blondy.dev/resume_laurent_blondy.pdf" target="_blank" rel="noreferrer">
     <img 
       src="./resume.svg" 
       alt="resume" >
