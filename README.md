@@ -32,7 +32,7 @@
 
 <!-- MY REPOS -->
 
-## Pinned Repos
+<h2 align="center">Pinned Repos</h2>
 
 <br>
 
@@ -58,9 +58,9 @@
 
 <!-- TECHNOLOGIES -->
 
-## Top Techs
+<h2 align="center">Top Techs</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="./typescript.svg"
