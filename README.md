@@ -9,18 +9,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-l-blondy.vercel.app
-/api?username=l-blondy&show_icons=true&locale=en&theme=tokyonight&custom_title=Github+Statistics&rank_icon=github"
+      srcset="https://github-readme-stats-l-blondy.vercel.app/api?username=l-blondy&show_icons=true&locale=en&theme=tokyonight&custom_title=Github+Statistics&rank_icon=github"
     />
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats-l-blondy.vercel.app
-/api?username=l-blondy&show_icons=true&locale=en&custom_title=Github+Statistics&rank_icon=github"
+      srcset="https://github-readme-stats-l-blondy.vercel.app/api?username=l-blondy&show_icons=true&locale=en&custom_title=Github+Statistics&rank_icon=github"
     />
     <img 
       alt="github stats"
-      src="https://github-readme-stats-l-blondy.vercel.app
-/api?username=l-blondy&show_icons=true&locale=en&theme=tokyonight&custom_title=Github+Statistics&rank_icon=github" 
+      src="https://github-readme-stats-l-blondy.vercel.app/api?username=l-blondy&show_icons=true&locale=en&theme=tokyonight&custom_title=Github+Statistics&rank_icon=github" 
     />
 </picture>
 </p>
@@ -50,23 +47,17 @@
 
 <a href="https://github.com/L-Blondy/tw-colors" target="_blank" rel="noreferrer">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset='https://github-readme-stats-l-blondy.vercel.app
-/api/pin/?username=L-Blondy&repo=tw-colors&border_color=87ceeb40&bg_color=161b24&title_color=f5f5f5&icon_color=87ceeb&text_color=cccccc'>
-    <source media="(prefers-color-scheme: light)" srcset='https://github-readme-stats-l-blondy.vercel.app
-/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
-    <img src='https://github-readme-stats-l-blondy.vercel.app
-/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
+    <source media="(prefers-color-scheme: dark)" srcset='https://github-readme-stats-l-blondy.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=87ceeb40&bg_color=161b24&title_color=f5f5f5&icon_color=87ceeb&text_color=cccccc'>
+    <source media="(prefers-color-scheme: light)" srcset='https://github-readme-stats-l-blondy.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
+    <img src='https://github-readme-stats-l-blondy.vercel.app/api/pin/?username=L-Blondy&repo=tw-colors&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
   </picture>
 </a>
 
 <a href="https://github.com/L-Blondy/up-fetch" target="_blank" rel="noreferrer">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset='https://github-readme-stats-l-blondy.vercel.app
-/api/pin/?username=L-Blondy&repo=up-fetch&border_color=87ceeb40&bg_color=161b24&title_color=f5f5f5&icon_color=87ceeb&text_color=cccccc'>
-    <source media="(prefers-color-scheme: light)" srcset='https://github-readme-stats-l-blondy.vercel.app
-/api/pin/?username=L-Blondy&repo=up-fetch&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
-    <img src='https://github-readme-stats-l-blondy.vercel.app
-/api/pin/?username=L-Blondy&repo=up-fetch&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
+    <source media="(prefers-color-scheme: dark)" srcset='https://github-readme-stats-l-blondy.vercel.app/api/pin/?username=L-Blondy&repo=up-fetch&border_color=87ceeb40&bg_color=161b24&title_color=f5f5f5&icon_color=87ceeb&text_color=cccccc'>
+    <source media="(prefers-color-scheme: light)" srcset='https://github-readme-stats-l-blondy.vercel.app/api/pin/?username=L-Blondy&repo=up-fetch&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
+    <img src='https://github-readme-stats-l-blondy.vercel.app/api/pin/?username=L-Blondy&repo=up-fetch&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
   </picture>
 </a>
 
